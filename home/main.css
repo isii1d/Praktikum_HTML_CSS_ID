@@ -1,0 +1,27 @@
+h1 {
+    background-color: #144256;
+    color: #E2EBEB;
+}
+
+.title {
+    font-size: 65px;
+}
+
+h2 {
+    background-color: #347B8D;
+    color: #ffffff;
+    padding: 25px 50px 75px;
+}
+
+p {
+    background-color: #65BFC6;
+    font-size: 16px;
+}
+
+.highlight {
+    background-color: #144256
+}
+
+.preparation {
+    background-color: #E2EBEB;
+}
